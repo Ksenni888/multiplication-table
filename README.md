@@ -8,6 +8,7 @@
 
 ## Функции приложения:
 Программа должна подгонять размер клеток под размер наибольшего числа в таблице.
-Форматирование –в точности как в примере ниже (пример для размера 10).
-   <img width="468" height="442" alt="image" src="https://github.com/user-attachments/assets/7be13fe7-8a9b-4960-bbbb-ea2b3f53c090" />
+Форматирование – в точности как в примере ниже (пример для размера 10).
+
+<img width="468" height="442" alt="image" src="https://github.com/user-attachments/assets/7be13fe7-8a9b-4960-bbbb-ea2b3f53c090" />
  
