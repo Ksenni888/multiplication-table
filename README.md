@@ -13,7 +13,7 @@
 <img width="468" height="442" alt="image" src="https://github.com/user-attachments/assets/7be13fe7-8a9b-4960-bbbb-ea2b3f53c090" />
 
 # Развертывание.
-Клонируйте репозиторий ( ссылка для клонирования: (https://github.com/Ksenni888/multiplication-table) и запустите приложение в IntelliJ IDEA. 
+Клонируйте репозиторий ( ссылка для клонирования: https://github.com/Ksenni888/multiplication-table) и запустите приложение в IntelliJ IDEA. 
 
 # Версии.
 ![Static Badge](https://img.shields.io/badge/11.0.18%20-%20green?label=java%20version)
